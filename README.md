@@ -8,8 +8,8 @@ To use the application, you must first create the database in MySQL.
 
 1. ef2_ddl.sql
 2. ef2_constraints.dql
-3.ef2_stammdaten.sql
-4.ef2_bewegungsdaten.sql
+3. ef2_stammdaten.sql
+4. ef2_bewegungsdaten.sql
 
 I've always used XAMPP when developing the application; it lets me host the web server and MySQL server at the same time, and I can access everything via localhost.
 
